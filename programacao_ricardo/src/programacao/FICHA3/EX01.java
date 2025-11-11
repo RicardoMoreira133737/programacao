@@ -1,8 +1,8 @@
-package programacao.ficha2;
+package programacao.FICHA3;
 
 import java.util.Scanner;
 
-public class ex01 {
+public class EX01 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
